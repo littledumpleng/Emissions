@@ -1,1 +1,1 @@
-# Emissions
+Python data visualizations using Matplotlib of Maryland's estimated and projected emissions over time. Contrasts emission levels under current vs. enhanced programs. Includes a scatterplot, a double bar chart, and a line chart.
